@@ -1,0 +1,16 @@
+${AnsiColor.RED}
+			                         `hhhhhhhhhhhhhhhhhhhhy+-`  .shhhhhhhhhhhhhhhhhhhy                          
+			                         `hhhhhhhhhhhhhhhhhhy/`    `yhhhhhhhhhhhhhhhhhhhhy                          
+			                         `hhhhhhhhhhhhhhhhhs.      `:+shhhhhhhhhhhhhhhhhhy                          
+			                         `hhhhhhhhhhhhhhhhy`           .+hhhhhhhhhhhhhhhhy                          
+			                         `hhhhhhhhhhhhhhhh:              -hhhhhhhhhhhhhhhy                          
+			                         `hhhhhhhhhhhhhhhh.               shhhhhhhhhhhhhhy                          
+			                         `hhhhhhhhhhhhhhhh:               shhhhhhhhhhhhhhy                          
+			                         `hhhhhhhhhhhhhhhhy.             :hhhhhhhhhhhhhhhy                          
+			                         `hhhhhhhhhhhhhhhhhy/`         `/hhhhhhhhhhhhhhhhy                                                                                            
+                                              
+			\   \  /   /     /  __  \     |       \        /   \        |   ____|    /  __  \     |  \ |  |    |   ____|   
+			 \   \/   /     |  |  |  |    |  .--.  |      /  ^  \       |  |__      |  |  |  |    |   \|  |    |  |__      
+			  \      /      |  |  |  |    |  |  |  |     /  /_\  \      |   __|     |  |  |  |    |  . `  |    |   __|     
+			   \    /       |  `--'  |    |  '--'  |    /  _____  \     |  |        |  `--'  |    |  |\   |    |  |____    
+			    \__/         \______/     |_______/    /__/     \__\    |__|         \______/     |__| \__|    |_______|
